@@ -2,4 +2,5 @@
 headless: true
 ---
 
-<br />
+- [Kitaplar]({{< relref "/docs/kitaplar" >}})
+  - [Flannery OConnor]({{< relref "/docs/kitaplar/flannery-oconnor" >}})
