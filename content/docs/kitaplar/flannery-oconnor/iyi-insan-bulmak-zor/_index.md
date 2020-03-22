@@ -17,11 +17,13 @@ Annesi ile sehirde yasarken kucuk yasta annesini kaybeden **Nelson** dedesi ile 
 {{< /columns >}}
 ## Ateşte Bir Çember
 ### Bayan Cope
+Karakterimiz oykunun gectigi ciftligin sahibesidir. Kitaptaki oykulerde tekrarlanan bir tipleme bu toprak sahibesi. **Bayan Cope** cok caliskan ve titiz bir isverendir. Topraklarinin diger ciftliklere gore daha bakimli olmasiyla ovunur. Bir taraftan topraktaki yabani otlarla ugrasirken bir taraftan da **Bayan Pritchard** ile dedikodu yaparlar. Aslinda herseyin seyri uc ergenin ciftlige gelisine kadar olagandir. Dindar bir insan olan **Cope** surekli sukretmek gerektiginden bahseder. Sukretmekten bahsederken Sibirya'ya surulen Avrupalilardan bahseder. Buradan oykunun II. Dunya Savasi donemlerinde gectigini anliyoruz. Tedbirli bir insan olan **Bayan Cope** en cok ciftliginde bir yangin cikmasindan korkar.
 ### Bayan Pritchard
-{{< columns >}}
-### Powell 
-<--->
-### Garfield Smith
-<--->
-### W.T. Harper
-{{< /columns >}}
+**Bayan Cope** un ciftliginin calisanlarindandir. Kocasiyla beraber islerin cogunlugunu ustlenirler. **Bayan Cope** un aksine sukretmek icin bir neden olmadigini dusunur. Felaket tellalligi yapmayi, olaylara en kotu pencereden bakmayi cok seven **Bayan Pritchard** uc ergenin ciftlige gelisinin de pek hayra alamet olmadigini soyler.
+### Powell && Garfield Smith && W.T. Harper
+Ciftlige bir gun uc ergen gelir. Bunlardan **Powell** **Pritchardlardan** once ciftlikte calisan **Boydun** ogludur. Babasi ciftlikten ayrildiktan sonra __Florida__ da olmustur.  **Garfield** uc oglandan iri olanidir **Harper** ise en kucukleridir. 
+## Kurtardigin Hayat Seninki Olabilir
+
+## Temiz Koyluler 
+
+## Multeci
